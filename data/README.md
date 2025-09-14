@@ -1,7 +1,6 @@
 # Clandestine
 
-**Clandestine** adalah offensive security & cyber intelligence toolkit berbasis CLI.  
-Terinspirasi dari [SysBraykr Military & Intelligence Software](https://sysbraykr.com/software),  
+**Clandestine** adalah offensive security & cyber intelligence toolkit berbasis CLI. 
 project ini dikembangkan untuk riset, edukasi, dan kompetisi keamanan siber.
 
 ---
